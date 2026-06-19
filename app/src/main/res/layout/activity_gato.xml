@@ -30,11 +30,11 @@
         />
 
     <TextView
-        android:id="@+id/lbl_titulo"
+        android:id="@+id/lbl_user2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="20dp"
-        android:text="bienvenido"
+        android:text="@string/juego_gato"
         android:textSize="20sp"
         android:textStyle="bold"
         />
