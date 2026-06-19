@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OSARIAN</string>
+    <string name="titulo">Selecciona el juego</string>
+    <string name="name_users">Nombres de los jugadores</string>
+    <string name="juego_gato">Bienvenido al gato</string>
+    <string name="juego_hockey">Bienvenido al hockey</string>
+    <string name="btn_select">juego del gato</string>
+    <string name="btn_hockey">Juego del Hockey</string>
+    <string name="hint_user1">Nombre del jugador 1</string>
+    <string name="hint_user2">Nombre del jugador 2</string>
+    <string name="btn_jugar">Jugar</string>
+    <string name="lbl_user1">jugador 1</string>
+    <string name="lbl_user2">jugador 2</string>
+
+
+</resources>
